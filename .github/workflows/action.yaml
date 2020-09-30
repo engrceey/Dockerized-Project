@@ -1,4 +1,4 @@
-name: EventManager Project CI with github action
+name: DecaLaundry Project CI with github action
 
 on:
   push:
