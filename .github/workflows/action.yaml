@@ -1,8 +1,6 @@
-<<<<<<< HEAD
-name: Washer Project CI with github action
-=======
+
 name: DecaLaundry Project CI with github action
->>>>>>> 366817279e7e194ebf2bd37aeacbe748ba839272
+
 
 on:
   push:
